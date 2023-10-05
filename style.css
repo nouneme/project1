@@ -1,0 +1,60 @@
+h1{
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(255, 130, 57);
+    color: rgb(27, 20, 7);
+    padding: 10px;
+}
+
+img{
+    max-width: 100%;
+    width: 650px;
+    height: 425px;
+    margin: 25px;
+    object-fit: cover;
+    border: 5px solid grey;
+}
+.blue {
+    border: 5px solid pink;
+    border-radius: 100px 0 0 0;
+}
+.cat{
+    border: 5px double black;
+}
+
+hr {
+    border: 2px solid green;
+}
+a {
+    color: darkorange;
+    text-decoration: none;
+    font-style: italic;
+}
+ul{
+    color: darkolivegreen;
+}
+.dog{
+    text-decoration: underline;
+    font-size: 20px;
+}
+ol {
+    color: red;
+}
+.bread{
+    text-decoration: line-through;
+}
+.skull{
+    text-transform: uppercase;
+    color: darkgoldenrod;
+}
+.text{
+    color: rgb(255, 98, 0);
+    border: 1px solid rgb(74, 20, 3);
+}
+span {
+    color: brown;
+}
+img{
+vertical-align: middle;
+}
